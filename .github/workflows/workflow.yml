@@ -11,6 +11,8 @@ jobs:
         
       - name: Print mexext
         run: mexext.bat
+        shell: bash
         
       - name: Print mexext
         run: mexext
+        shell: bash
